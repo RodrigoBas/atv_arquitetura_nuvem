@@ -1,5 +1,12 @@
 # Proposta da Aplicação: Dashboard de Monitoramento de Webhooks de Terceiros
 
+Integrantes: Augusto de Barros Almeida,
+Gustavo Santanna Cardoso,
+Renato Fernandes da Silva,
+Rodrigo Bastos Amaral,
+Walber Cesar De Sousa Santos
+
+
 1. Propósito do Software
 
 O objetivo deste projeto é desenvolver um dashboard em tempo real para monitorar eventos recebidos de um software de terceiros. Por exemplo, podemos monitorar "Novas Vendas" de uma loja Shopify ou "Novos Pagamentos" de um sistema como o Stripe, exibindo-os no dashboard no exato segundo em que acontecem.
